@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-post-probot",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
