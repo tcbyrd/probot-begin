@@ -1,2 +1,0 @@
-# probot-begin
-Begin app
